@@ -1,0 +1,12 @@
+﻿  Background.cpp
+  Bullet.cpp
+  Button.cpp
+  Component.cpp
+  Enemy.cpp
+  Label.cpp
+  Main.cpp
+  Player.cpp
+  Session.cpp
+  System.cpp
+  Generating Code...
+  Wing.vcxproj -> C:\Users\nikol\source\repos\Wing\Debug\Wing.exe
